@@ -1,4 +1,4 @@
-# excemple-12082024
+# example-12082024
 
 Description of the app ... test
 
